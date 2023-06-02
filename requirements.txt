@@ -1,0 +1,4 @@
+pyrtlsdr
+SQLAlchemy
+psycopg2-binary
+matplotlib
